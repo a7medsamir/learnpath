@@ -1,0 +1,361 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"par",
+				"partials/:partialPath"
+			],
+			[
+				"$route",
+				"$routeProvider	AngularJS"
+			],
+			[
+				"$loca",
+				"$locationProvider	AngularJS"
+			],
+			[
+				"mo",
+				"module	AngularJS"
+			],
+			[
+				"bod",
+				"bodyParser〔variable〕"
+			],
+			[
+				"html",
+				"htmlboiler	htmlboiler"
+			],
+			[
+				"som",
+				"someFunction"
+			],
+			[
+				"ser",
+				"server"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Stylus/Stylus.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Stylus/Stylus.sublime-build",
+					""
+				],
+				[
+					"Packages/Stylus/Stylus.sublime-build",
+					"compress"
+				]
+			],
+			[
+				"Packages/Stylus/Stylus.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "Pac",
+		"selected_items":
+		[
+			[
+				"Pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Package COntrol:in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: lis",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"js",
+				"JSHint"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"PackageControl:ins",
+				"Package Control: Install Package"
+			],
+			[
+				"npm ",
+				"npm: Install Package"
+			],
+			[
+				"Package control:ins",
+				"Package Control: Install Package"
+			],
+			[
+				" npm:ins",
+				"npm: Install Package"
+			],
+			[
+				"npm",
+				"npm: Search Packages"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: list",
+				"Package Control: List Packages"
+			],
+			[
+				"Package",
+				"Package Control: Install Package"
+			],
+			[
+				"package control:insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 514.0
+	},
+	"console":
+	{
+		"height": 70.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Playground/Projects/MEAN_SampleProject",
+		"/D/Playground/Projects/MEAN_SampleProject/public/css",
+		"/D/Playground/Projects/MEAN_SampleProject/public/vendor/jquery/dist",
+		"/D/Playground/Projects/MEAN_SampleProject/server/includs",
+		"/D/Playground/Projects/MEAN_SampleProject/server/views",
+		"/D/Playground/Projects/MEAN_SampleProject/server/views/partials"
+	],
+	"file_history":
+	[
+		"/D/Playground/Projects/MEAN_SampleProject/public/app/app.js",
+		"/D/Playground/Projects/MEAN_SampleProject/server/includs/layout.jade",
+		"/D/Playground/Projects/MEAN_SampleProject/server.js",
+		"/D/Playground/Projects/MEAN_SampleProject/server/views/partials/main.jade",
+		"/D/Playground/Projects/MEAN_SampleProject/server/views/index.jade",
+		"/D/Playground/Projects/MEAN_SampleProject/server/includs/scripts.jade",
+		"/D/Playground/Projects/MEAN_SampleProject/projectEditor.sublime-project",
+		"/D/Playground/Projects/MEAN_SampleProject/css/site.styl",
+		"/D/Playground/Projects/MEAN_SampleProject/server/includs/layout.html",
+		"/D/Playground/Projects/MEAN_SampleProject/.bowerrc",
+		"/D/Playground/Projects/MEAN_SampleProject/server/views/index.html",
+		"/D/Work/Projects/Outsourcing Calculator/index.html",
+		"/D/Work/Projects/Outsourcing Calculator/scripts/directives.js",
+		"/D/Work/Projects/Outsourcing Calculator/partials/vendor-form.html",
+		"/D/Work/Projects/Outsourcing Calculator/partials/member-form.html",
+		"/D/Work/Projects/Outsourcing Calculator/partials/result.html",
+		"/D/Work/Projects/Outsourcing Calculator/partials/members-list.html",
+		"/D/Work/Projects/Outsourcing Calculator/partials/outsourcing-calculator.html",
+		"/D/Work/Projects/Outsourcing Calculator/index2.html",
+		"/C/Users/asamir/AppData/Roaming/Sublime Text 3/Packages/Minify/Minify.sublime-settings",
+		"/C/Users/asamir/AppData/Roaming/Sublime Text 3/Packages/User/Minify.sublime-settings",
+		"/D/Work/Projects/Outsourcing Calculator/scripts/app.js",
+		"/D/Work/Projects/Outsourcing Calculator/styles/app.css",
+		"/D/Work/Projects/Outsourcing Calculator/lib/angularPrint/css/angularPrint.css",
+		"/D/Work/Projects/Outsourcing Calculator/scripts/controllers.js",
+		"/D/Playground/Folder1/testJs.js",
+		"/D/Playground/Folder1/test.html",
+		"/D/Work/Projects/Outsourcing Calculator/web.config",
+		"/C/Users/asamir/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.py",
+		"/C/Users/asamir/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/C/Users/asamir/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/D/Playground/Projects/OOP_Javscript/SampleModule2.js",
+		"/D/Playground/Projects/OOP_Javscript/IntegrantCalculator.js",
+		"/D/Playground/Projects/OOP_Javscript/SampleModule.js",
+		"/C/Users/asamir/AppData/Roaming/Sublime Text 3/Packages/JSHint Gutter/JSHint.sublime-settings",
+		"/C/Users/asamir/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/Workshop/Projects/MEAN_Projects/temp/Gruntfile.js",
+		"/D/Workshop/Projects/MEAN_Projects/second.js",
+		"/D/Workshop/Projects/MEAN_Projects/first.js",
+		"/D/Workshop/Folder1/testJs.js",
+		"/D/Workshop/Folder1/node_modules/angular/angular.js",
+		"/D/test.html",
+		"/C/Users/asamir/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Is Integrant Right for Your Company? Take Our Quiz Today ",
+			"document",
+			"ValidateRequired",
+			"bootstrap",
+			"Using node.js",
+			"output.find",
+			"get_output_diagnostics",
+			"get_pref",
+			"get_output_diagnostics",
+			"node",
+			";\n",
+			"get_node_path",
+			"run_script_on_file",
+			">\n",
+			"run_script_on_file"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 434.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.textarea":
+	{
+		"height": 102.0
+	},
+	"pinned_build_system": "Packages/Jade Build/Jade.sublime-build",
+	"project": "projectEditor.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 326.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

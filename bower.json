@@ -1,0 +1,27 @@
+{
+  "name": "learnpath",
+  "description": "Learn Path is Training web site",
+  "main": "index.js",
+  "authors": [
+    "Ahmed Samir"
+  ],
+  "license": "ISC",
+  "moduleType": [
+    "es6"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "public/vendor"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.1",
+    "toastr": "^2.1.2",
+    "angular-resource": "^1.5.0",
+    "angular-route": "^1.5.0"
+  }
+}
